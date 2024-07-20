@@ -1,1 +1,6 @@
+ HEAD
 *.xml filter=lfs diff=lfs merge=lfs -text
+=======
+# Auto detect text files and perform LF normalization
+* text=auto
+b0ab5fe7ca990d9aa8f8c6068ea1f3a8bb1f0ce3
